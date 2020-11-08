@@ -1,0 +1,111 @@
+.search-content-header {
+    margin-top: 55px;
+    margin-left: 90px;
+    margin-right: 100px;
+    background: #e6f7ff;
+    border-radius: 16px;
+    padding: 65px 480px 40px 95px;
+    
+}
+
+.search-title {
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+}
+
+.input-search {
+    display: flex;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    height: 40px;
+    width: 675px;
+    font-size: 16px;
+    line-height: 24px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 8px 25px 8px 15px;
+    color: #000000;
+}
+
+.search-container {
+    background: #f5f5f5;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 90px;
+    margin-right: 100px;
+    padding: 25px 25px 25px 30px;
+    display: flex;
+    
+    
+}
+
+.card-image {
+    width: 284px;
+    height: 280px;
+    background: #d9d9d9;
+    margin-bottom: 15px;
+    margin-right: 45px;
+}
+
+.search-labels {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.form-content {
+    width: 870px;
+    height: 247px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 10px 15px 15px 15px;
+}
+
+.text-form-content {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1890ff;
+    margin-bottom: 20px;
+}
+
+.input-form-content {
+    width: 840px;
+    height: 40px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    color: #737373;
+    font-size: 16px;
+    line-height: 24px;
+    
+
+}
+
+.shape-label-repositories {
+    width: 175px;
+    height: 22px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-right: 10px;
+    color: #595959;
+}
+
+.form-hidden{
+    visibility: hidden;
+}
+
+.form-visible{
+    visibility: visible;
+}
+

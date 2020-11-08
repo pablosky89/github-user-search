@@ -1,9 +1,15 @@
 .main-nav {
-    height: 60px;
+    height: calc(60px - 15px);
     background: #1890ff;
+    align-items: center;
+    padding-left: 40px;
+    padding-top: 15px;
 }
 
-.nav-logo-text {
+.text-nav {
     color: #fff;
-    padding: 15px 0px 15px 40px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
 }
