@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import ButtonGeneric from '../../../../../core/components/ButtonGeneric';
-import { makeRequest } from '../../../../../core/utils/request';
+import ButtonGeneric from 'core/components/ButtonGeneric';
+import { makeRequest } from 'core/utils/request';
 import ImageLoader from '../../Loaders/ImageLoader';
 import InfoLoader from '../../Loaders/InfoLoader';
 import './styles.css';
@@ -79,7 +78,6 @@ const FormFind = () => {
                                     <img src={formData.avatar_url} alt={formData.name} className="card-image" />
                                 </div>
                                     <ButtonGeneric text="Ver perfil" />
-                                
 
 
                             </div>
